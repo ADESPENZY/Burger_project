@@ -2,8 +2,9 @@
   "name": "fourth_project",
   "version": "1.0.0",
   "main": "index.js",
- "scripts": {
-  "build": "npx tailwindcss -i ./src/input.css -o ./docs/output.css --minify"
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./docs/output.css --minify"
+    
   },
   "author": "",
   "license": "ISC",
