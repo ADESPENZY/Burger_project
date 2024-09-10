@@ -1,0 +1,79 @@
+{
+    "items" : {
+        "food" : [
+            {
+                "id": 1,
+                "image": "img/burger-1.png",
+                "title": "REGULAR BEEF BURGER",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 2,
+                "image": "img/burger-2.png",
+                "title": "REGULAR BEEF BURGER",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 3,
+                "image": "img/burger-3.png",
+                "title": "REGULAR BEEF BURGER",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 4,
+                "image": "img/burger-4.png",
+                "title": "REGULAR BEEF BURGER",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 5,
+                "image": "img/burger-5.png",
+                "title": "REGULAR BEEF BURGER",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            }
+
+        ],
+        "snacks" : [
+            {
+                "id": 6,
+                "image": "img/snack-1.png",
+                "title": "FRENCH FRIES",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 7,
+                "image": "img/snack-2.png",
+                "title": "FRENCH FRIES",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 8,
+                "image": "img/snack-3.png",
+                "title": "FRENCH FRIES",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 9,
+                "image": "img/snack-4.png",
+                "title": "FRENCH FRIES",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            },
+            {
+                "id": 10,
+                "image": "img/snack-5.png",
+                "title": "FRENCH FRIES",
+                "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+                "price": 42.00
+            }
+        ]
+    }
+}
